@@ -2,7 +2,7 @@
 
 A nonprofit website empowering immigrant women through free English tutoring.
 
-![The Literacy Project](public/hero_main.jpg)
+![The Literacy Project]
 
 ## Quick Start
 
